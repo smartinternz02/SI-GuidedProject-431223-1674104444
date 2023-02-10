@@ -2,5 +2,5 @@
 Thyroid Disease Classification Using ML
 
 
-Youtube link for demo video - 
+Youtube link for demo video - https://youtu.be/ZBR7LQS03cY
 
